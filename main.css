@@ -13,3 +13,9 @@ header{
     border: 1px solid #000;
     margin: auto;
 }
+header nav{
+    width: 95%;
+    height: 7%;
+    border: 1px solid #000;
+    margin: auto;
+}
