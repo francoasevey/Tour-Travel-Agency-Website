@@ -36,3 +36,6 @@ header nav ul li a{
     font-weight: 500;
     transition: .3s linear;
 }
+header nav ul li a:hover{
+    color: gray;
+}
