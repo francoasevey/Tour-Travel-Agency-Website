@@ -36,6 +36,14 @@ header nav ul li a{
     font-weight: 500;
     transition: .3s linear;
 }
+header nav ul li:nth-last-child(1){
+    background: #000;
+    border-radius: 20px;
+    padding: 5px 20px;
+}
+header nav ul li:nth-last-child(1) a{
+    color: #fff;
+}
 header nav ul li a:hover{
     color: gray;
 }
