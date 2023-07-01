@@ -50,3 +50,9 @@ header nav ul li a:hover{
 header nav .bi_three-dots{
     display: none;
 }
+header .content{
+    position: relative;
+    width: 100%;
+    height: 80%;
+    border: 1px solid #000;
+}
