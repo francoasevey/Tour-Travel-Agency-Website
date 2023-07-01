@@ -66,3 +66,9 @@ header .content::before{
     border-radius: 10px;
     z-index: -1;
 }
+header .content .cont_bx{
+    width: 500px;
+    height: auto;
+    color: #fff;
+    padding: 30px;
+}
