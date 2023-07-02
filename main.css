@@ -47,7 +47,7 @@ header nav ul li:nth-last-child(1) a{
 header nav ul li a:hover{
     color: gray;
 }
-header nav .bi_three-dots{
+header nav .bi-three-dots{
     display: none;
 }
 header .content{
@@ -61,7 +61,7 @@ header .content::before{
     position: absolute;
     width: 100%;
     height: 80%;
-    border: 1px solid #000;
+    /*border: 1px solid #000;*/
     background: url('/img/img/background1.png') no-repeat center center/cover;
     border-radius: 10px;
     z-index: -1;
@@ -71,4 +71,14 @@ header .content .cont_bx{
     height: auto;
     color: #fff;
     padding: 30px;
+}
+header .content .cont_bx h1{
+    line-height: 40px;
+    font-weight: 800;
+    margin: 0;
+}
+header .content .cont_bx p{
+    font-size: 14px;
+    font-weight: 400;
+    color: rgb(241, 241, 241);
 }
