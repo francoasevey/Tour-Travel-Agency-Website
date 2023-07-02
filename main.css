@@ -124,3 +124,8 @@ header .trip_bx .search_bx .card{
     height: 100%;
     border: 1px solid #000;
 }
+header .trip_bx .search_bx .card h4{
+    font-size: 15px;
+    margin: 0;
+    font-weight: 700;
+}
