@@ -98,3 +98,10 @@ header .content .cont_bx button:hover{
     background: rgb(113, 113, 113);
     border: 2px solid rgb(113, 113, 113);
 }
+header .trip_bx{
+    position: relative;
+    width: 95%;
+    height: auto;
+    margin: auto;
+    border: 1px solid #000;
+}
