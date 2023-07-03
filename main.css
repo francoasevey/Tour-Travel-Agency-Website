@@ -156,3 +156,11 @@ header .trip_bx .search_bx input[type="button"]{
 header .trip_bx .search_bx input[type="button"]:hover{
     background: gray;
 }
+header .trip_bx .travel_bx{
+    position: relative;
+    width: 100%;
+    height: auto;
+    margin: auto;
+    top: 40px;
+    border: 1px solid #000;
+}
