@@ -162,5 +162,8 @@ header .trip_bx .travel_bx{
     height: auto;
     margin: auto;
     top: 40px;
+    background: #000;
     border: 1px solid #000;
+    border-radius: 10px;
+    padding-bottom: 20px;
 }
