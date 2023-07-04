@@ -162,7 +162,7 @@ header .trip_bx .travel_bx{
     height: auto;
     margin: auto;
     top: 40px;
-    background: #000;
+    /*background: #000;*/
     border: 1px solid #000;
     border-radius: 10px;
     padding-bottom: 20px;
@@ -177,4 +177,8 @@ header .trip_bx .travel_bx::before{
     background: rgb(241, 241, 241 .7);
     backdrop-filter:  blu(5px) ;
     z-index: -1;
+}
+header .trip_bx .travel_bx h4{
+    margin: 0;
+    padding: 60px 0px 15px 1.7%;
 }
