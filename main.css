@@ -188,3 +188,7 @@ header .trip_bx .travel_bx .cards{
     margin: 0 auto;
     border: 1px solid #000;
 }
+header .trip_bx .travel_bx .cards .card{
+    width: 220px;
+    height: 180px;
+}
