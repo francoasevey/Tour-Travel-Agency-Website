@@ -187,9 +187,19 @@ header .trip_bx .travel_bx .cards{
     height: auto;
     margin: 0 auto;
     border: 1px solid #000;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
 }
 header .trip_bx .travel_bx .cards .card{
     width: 220px;
     height: 180px;
     border: 1px solid #000;
+}
+header .trip_bx .travel_bx .cards .card h3{
+    margin: 0px 0px 10px 0px ;
+    display: flex;
+    align-items: center;
+    font-size: 16px;
+    font-weight: 600;
 }
