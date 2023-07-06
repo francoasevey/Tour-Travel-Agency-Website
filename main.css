@@ -216,7 +216,7 @@ header .trip_bx .travel_bx .cards .card .btn_city{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border: 1px solid #000;
+    /*border: 1px solid #000;*/
 }
 header .trip_bx .travel_bx .cards .card .btn_city a{
     text-decoration: none;
@@ -226,4 +226,14 @@ header .trip_bx .travel_bx .cards .card .btn_city a{
     padding: 6px 20px;
     font-size: 11px;
     transition: .3s linear;
+}
+header .trip_bx .travel_bx .cards .card .btn_city a:hover{
+    background: gray;
+}
+header .trip_bx .travel_bx .cards .card .btn_city h5{
+    font-size: 11px;
+    font-weight: 500;
+    margin: 0;
+    margin-top: 5px;
+    line-height: 15px;
 }
