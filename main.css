@@ -218,3 +218,12 @@ header .trip_bx .travel_bx .cards .card .btn_city{
     justify-content: space-between;
     border: 1px solid #000;
 }
+header .trip_bx .travel_bx .cards .card .btn_city a{
+    text-decoration: none;
+    background: #000;
+    color: #fff;
+    border-radius: 20px;
+    padding: 6px 20px;
+    font-size: 11px;
+    transition: .3s linear;
+}
