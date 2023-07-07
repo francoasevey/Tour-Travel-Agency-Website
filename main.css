@@ -271,3 +271,13 @@ header .trip_bx .travel_bx .cards .card .btn_city h5 span{
     height: 350px;
     border: 1px solid #000;
 }
+.offers .cards .card h3{
+    width: 140px;
+    padding: 6px 0px;
+    background: rgb(165, 243, 165);
+    border-radius: 20px;
+    font-size: 12px;
+    display: grid;
+    place-items: center;
+    margin: auto;
+}
