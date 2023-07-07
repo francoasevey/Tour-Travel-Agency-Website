@@ -300,3 +300,10 @@ header .trip_bx .travel_bx .cards .card .btn_city h5 span{
     bottom: 0;
     color: #fff;
 }
+.offers .cards .card .img_text h4::before{
+    content: '';
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    background: rgb(255, 255, 255);
+}
