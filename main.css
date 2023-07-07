@@ -258,3 +258,10 @@ header .trip_bx .travel_bx .cards .card .btn_city h5 span{
     text-align: center;
     margin: 0;
 }
+.offers .cards{
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    border: 1px solid #000;
+}
