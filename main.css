@@ -322,3 +322,10 @@ header .trip_bx .travel_bx .cards .card .btn_city h5 span{
     padding: 5px 0px;
     border-radius: 0px 0px 5px 5px;
 }
+.offers .cards .card .cont_bx .price , .days{
+    margin: 0px 8px;
+}
+.offers .cards .card .cont_bx .price .heart_chat{
+    display: flex;
+    align-items: center;
+}
