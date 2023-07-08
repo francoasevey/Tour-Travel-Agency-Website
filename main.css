@@ -358,3 +358,23 @@ header .trip_bx .travel_bx .cards .card .btn_city h5 span{
     transition: .3s linear;
     margin-right: 13px;
 }
+.offers .cards .card .cont_bx .price .info_price a:hover{
+    color: gray;
+}
+.offers .cards .card .cont_bx .price .info_price h4{
+    margin: 0;
+    font-size: 13px;
+}
+.offers .cards .card .cont_bx .dayes{
+    color: #fff;
+    background: #000;
+    font-size: 8px;
+    border-radius: 50%;
+    padding: 10px;
+    text-align: center;
+    cursor: pointer;
+    transition: .3s linear;
+}
+.offers .cards .card .cont_bx .dayes:hover{
+    transform: rotate(360deg);
+}
