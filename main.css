@@ -345,3 +345,16 @@ header .trip_bx .travel_bx .cards .card .btn_city h5 span{
     font-size: 13px;
     margin-right: 10px;
 }
+.offers .cards .card .cont_bx .price .info_price{
+    display: flex;
+    align-items: center;
+    margin-top: 3px;
+}
+.offers .cards .card .cont_bx .price .info_price a{
+    text-decoration: none;
+    color: #000;
+    font-size: 11px;
+    font-weight: 700;
+    transition: .3s linear;
+    margin-right: 13px;
+}
