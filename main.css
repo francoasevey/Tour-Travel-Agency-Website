@@ -263,13 +263,15 @@ header .trip_bx .travel_bx .cards .card .btn_city h5 span{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border: 1px solid #000;
+    /*border: 1px solid #000;*/
+    flex-wrap: wrap;
 }
 .offers .cards .card{
     position: relative;
     width: 200px;
     height: 350px;
-    border: 1px solid #000;
+    /*border: 1px solid #000;*/
+    margin: 10px;
 }
 .offers .cards .card h3{
     width: 140px;
@@ -318,11 +320,11 @@ header .trip_bx .travel_bx .cards .card .btn_city h5 span{
     display: flex;
     align-items: center;
     justify-content: space-between;
-    border: 1px solid #000;
+    /*border: 1px solid #000;*/
     padding: 5px 0px;
     border-radius: 0px 0px 5px 5px;
 }
-.offers .cards .card .cont_bx .price , .days{
+.offers .cards .card .cont_bx .price , .dayes{
     margin: 0px 8px;
 }
 .offers .cards .card .cont_bx .price .heart_chat{
