@@ -244,7 +244,7 @@ header .trip_bx .travel_bx .cards .card .btn_city h5 span{
 .offers{
     width: 60%;
     height: auto;
-    border: 1px solid #000;
+    /*border: 1px solid #000;*/
     margin: auto;
     margin-top: 100px;
 }
@@ -316,11 +316,11 @@ header .trip_bx .travel_bx .cards .card .btn_city h5 span{
     left: 0;
 }
 .offers .cards .card .cont_bx{
-    width: 100%;
+    width: 99%;
     display: flex;
     align-items: center;
     justify-content: space-between;
-    /*border: 1px solid #000;*/
+    border: 1px solid rgb(182, 182, 182);
     padding: 5px 0px;
     border-radius: 0px 0px 5px 5px;
 }
