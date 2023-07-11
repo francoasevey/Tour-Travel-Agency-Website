@@ -380,3 +380,13 @@ header .trip_bx .travel_bx .cards .card .btn_city h5 span{
 .offers .cards .card .cont_bx .dayes:hover{
     transform: rotate(360deg);
 }
+.destinarion{
+    width: 45%;
+    height: auto;
+    border: 1px solid #000;
+    margin: auto;
+    margin-top: 70px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
