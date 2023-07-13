@@ -396,3 +396,10 @@ header .trip_bx .travel_bx .cards .card .btn_city h5 span{
     height: auto;
     border: 1px solid #000;
 }
+.destination .des_bx h4{
+    margin: 0;
+    font-size: 20px;
+    color: #000;
+    line-height: 10;
+    letter-spacing: 1px;
+}
