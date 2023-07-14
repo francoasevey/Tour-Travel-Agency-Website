@@ -445,4 +445,24 @@ header .trip_bx .travel_bx .cards .card .btn_city h5 span{
     height: 50px;
     background: #fff;
     box-shadow: 0px 5px 20px gray;
+    display: flex;
+    align-items: center;
+    padding: 0px 10px;
+}
+.destination .img_bx .msg img{
+    width: 30px;
+    height: 55%;
+}
+.destination .img_bx .msg .cont{
+    margin-left: 15px;
+}
+.destination .img_bx .msg .cont h4{
+    margin: 0;
+    font-size: 15px;
+    font-weight: 500;
+}
+.destination .img_bx .msg .cont .bi:nth-child(1){
+    color: red;
+    margin-right: 5px;
+    font-size: 13px;
 }
