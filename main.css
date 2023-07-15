@@ -487,4 +487,8 @@ footer{
     height: auto;
     background: rgb(249, 249, 255);
     margin-top: 20px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
 }
