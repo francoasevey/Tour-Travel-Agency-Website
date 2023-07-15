@@ -499,3 +499,8 @@ footer h2{
     line-height: 30px;
     font-weight: 600;
 }
+footer p{
+    align-items: center;
+    width: 400px;
+    font-size: 13px;
+}
