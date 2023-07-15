@@ -482,3 +482,9 @@ header .trip_bx .travel_bx .cards .card .btn_city h5 span{
     margin-right: 5px;
     font-size: 13px;
 }
+footer{
+    width: 100%;
+    height: auto;
+    background: rgb(249, 249, 255);
+    margin-top: 20px;
+}
