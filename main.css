@@ -526,3 +526,17 @@ footer .input button{
     cursor: pointer;
     transition: .3s linear;
 }
+footer .input button:hover{
+    background: gray;
+}
+footer ul{
+    list-style: none;
+    display: flex;
+    align-items: center;
+    margin-top: 30px;
+}
+footer ul li{
+    text-align: center;
+    margin-right: 30px;
+    font-weight: bold;
+}
