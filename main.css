@@ -383,7 +383,7 @@ header .trip_bx .travel_bx .cards .card .btn_city h5 span{
 .destination{
     width: 45%;
     height: auto;
-    border: 1px solid #000;
+    /*border: 1px solid #000;*/
     margin: auto;
     margin-top: 70px;
     display: flex;
@@ -394,7 +394,7 @@ header .trip_bx .travel_bx .cards .card .btn_city h5 span{
     position: relative;
     width: 50%;
     height: auto;
-    border: 1px solid #000;
+    /*border: 1px solid #000;*/
 }
 .destination .des_bx h4{
     margin: 0;
@@ -449,6 +449,10 @@ header .trip_bx .travel_bx .cards .card .btn_city h5 span{
     align-items: center;
     padding: 0px 10px;
     border-radius: 5px;
+}
+.destination .img_bx .msg:nth-child(2){
+    top: 10%;
+    left: 55%;
 }
 .destination .img_bx .msg img{
     width: 30px;
