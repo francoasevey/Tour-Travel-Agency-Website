@@ -532,11 +532,20 @@ footer .input button:hover{
 footer ul{
     list-style: none;
     display: flex;
-    align-items: center;
+    /*align-items: center;*/
     margin-top: 30px;
 }
 footer ul li{
     text-align: center;
     margin-right: 30px;
     font-weight: bold;
+}
+footer ul li h6{
+    font-size: 11px;
+    font-weight: 600;
+    max-width: 120px;
+    margin: 0;
+    line-height: 18px;
+    border-top: 1px solid #000;
+    padding-top: 3px;
 }
