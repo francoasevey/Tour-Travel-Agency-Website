@@ -8,3 +8,14 @@
         width: 72%;
     }
 }
+@media screen and (max-width: 1250px){
+    header{
+        width: 90%;
+    }
+    .offers{
+        width: 82%;
+    }
+    .destination{
+        width: 55%;
+    }
+}
