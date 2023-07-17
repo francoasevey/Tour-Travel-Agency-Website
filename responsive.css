@@ -40,3 +40,14 @@
         width: 60%;
     }
 }
+@media screen and (max-width: 950px){
+    header .trip_bx .search_bx{
+        width: 85%;
+    }
+    header .trip_bx .search_bx .card{
+        margin-right: 8px;
+    }
+    .destination{
+        width: 75%;
+    }
+}
