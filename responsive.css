@@ -26,6 +26,13 @@
     header .trip_bx .search_bx{
         width: 70%;
     }
+    header .trip_bx .travel_bx .cards{
+        overflow: auto;
+    }
+    header .trip_bx .travel_bx .cards .card{
+        min-width: 220px;
+        margin-right: 10px;
+    }
     .offers{
         width: 95%;
     }
