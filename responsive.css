@@ -143,4 +143,17 @@
     .destination .des_bx, .img_bx{
         width: 85%;
     }
+    footer ul li h6{
+        font-size: 8px;
+    }
+}
+@media screen and (max-width: 411px){
+    .offers{
+        margin-top: 80px;
+    }
+    footer p{
+        text-align: center;
+        width: 330px;
+        font-size: 13px;
+    }
 }
