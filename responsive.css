@@ -53,8 +53,6 @@
 }
 @media screen and (max-width: 714px){
     header nav ul{
-        list-style: none;
-        display: flex;
         position: absolute;
         width: 100px;
         height: auto;
@@ -63,8 +61,26 @@
         border-radius: 5px;
         box-shadow: 0px 0px 10px gray;
         justify-content: center;
-        top: 0px;
+        top: -100%;
+        right: 30%;
         z-index: 999999999999999;
         padding: 10px 20px;
+        transition: 1s linear;
+    }
+    header nav .ul_active{
+        top: 0;
+    }
+    header nav ul li{
+        padding: 8px 0px;
+        text-align: center;
+    }
+    header nav .bi-three-dots{
+        display: unset;
+    }
+    header .trip_bx .search_bx{
+        width: 93%;
+    }
+    .offers{
+        width: 75%;
     }
 }
