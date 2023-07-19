@@ -118,4 +118,17 @@
         width: 300px;
         font-size: 22px;
     }
+    header .content .cont_bx p{
+        width: 300px;
+        font-size: 12px;
+    }
+    header .trip_bx .search_bx{
+        width: 85%;
+    }
+    header .trip_bx .search_bx .card{
+        width: 110px;
+    }
+    header .trip_bx .search_bx .card input{
+        width: 100%;
+    }
 }
