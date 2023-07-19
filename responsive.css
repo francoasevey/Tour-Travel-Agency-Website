@@ -65,7 +65,7 @@
         right: 30%;
         z-index: 999999999999999;
         padding: 10px 20px;
-        transition: 1s linear;
+        transition: .5s linear;
     }
     header nav .ul_active{
         top: 0;
@@ -82,5 +82,16 @@
     }
     .offers{
         width: 75%;
+    }
+}
+@media screen and (max-width: 650px){
+    header .trip_bx .search_bx .card{
+        width: 140px;
+    }
+    header .trip_bx .search_bx input[type="button"]{
+        position: absolute;
+        right: 10px;
+        bottom: -43px;
+        font-size: 13px;
     }
 }
