@@ -131,4 +131,16 @@
     header .trip_bx .search_bx .card input{
         width: 100%;
     }
+    .offers h1{
+        font-size: 22px;
+    }
+    .offers p{
+        font-size: 14px;
+    }
+    .offers .cards{
+        justify-content: center;
+    }
+    .destination .des_bx, .img_bx{
+        width: 85%;
+    }
 }
